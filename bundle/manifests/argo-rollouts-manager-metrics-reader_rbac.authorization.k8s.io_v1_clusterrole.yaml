@@ -7,7 +7,7 @@ metadata:
     app.kubernetes.io/created-by: argo-rollouts-manager
     app.kubernetes.io/instance: metrics-reader
     app.kubernetes.io/managed-by: kustomize
-    app.kubernetes.io/name: clusterrole
+    app.kubernetes.io/name: clusterrole  
     app.kubernetes.io/part-of: argo-rollouts-manager
   name: argo-rollouts-manager-metrics-reader
 rules:

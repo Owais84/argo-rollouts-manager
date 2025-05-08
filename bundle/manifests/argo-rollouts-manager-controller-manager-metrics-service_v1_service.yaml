@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/name: service
     app.kubernetes.io/part-of: argo-rollouts-manager
     control-plane: controller-manager
-  name: argo-rollouts-manager-controller-manager-metrics-service
+  name: argo-rollouts-manager-controller-manager-metrics-service 
 spec:
   ports:
   - name: https
